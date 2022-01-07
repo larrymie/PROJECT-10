@@ -31,7 +31,7 @@ I  Installed and configured  Nginx  as  a  load balancer to point traffic to the
 I linked the load balancer newly created in my site available to my site enabled using so that the Nginx can access the configuration through it. I used the code <sudo ln -s ../sites-available/load_balancer.conf .> 
 IMAGE 12
 ![12](https://user-images.githubusercontent.com/91284177/148070235-cd822198-d12e-4a9b-aac8-cb1f7f59b9eb.png)
-
+checking
 Arrow linking my the site available and load balancer config to my site enabled. IMAGE 13
 
 ![13](https://user-images.githubusercontent.com/91284177/148070763-96260b25-cfd6-4b15-9482-aaf291eefac6.png)
